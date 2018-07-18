@@ -5,3 +5,7 @@
 #also you might fight agains yourslef rememeber in the anime they have evil twings from 2000 years ago i know i can use include to avoid this but im trying to be close to the script.
 # you win if Enemy heatl is less than 0.
 # This game follows 95% of the Instructions from git lab However becasue is a card game and who gets the car set marely depends on pure luck each pull of cards or attack in this case will depend on how lucky u are to get the most powerful card. for this specifc inttend of game. i decided to live the health untocuh so both enemy and you start at the same level.
+
+
+
+#for some reason is not loading in git hub  i follwed all the steps.
