@@ -1,0 +1,25 @@
+.mario1{
+    height: 200px;
+    width: 200px;
+}
+ 
+p{
+    color: red;
+    font-weight: bold;
+}
+h3{
+    background-color: black;
+    color: red;
+    font-weight: bold;    }
+    h4{
+        background-color: black;
+        color: rgb(25, 0, 255);
+    font-weight: bold;
+    }
+#counter{
+    background-color: black;
+    color: greenyellow;
+}
+#btn1:hover, #btn2:hover {
+background-color: blue;
+}
