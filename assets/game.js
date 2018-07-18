@@ -7,7 +7,7 @@ var powerAttack = Math.floor( ( Math.random() * 1000 ) + 1 );
 var live = 5;
 var enemy = 5;
 var powerUps= '';///ask for power ups and randomly chosse a image.
-var images = ["images/girl.jpg", "images/yugi.jpg", "images/seto.png","images/sultan.png","assets/images/abidos.png"];
+var images = ["images/girl.jpg", "images/yugi.jpg", "images/seto.png","images/sultan.png","images/abidos.png"];
 var cardImages = ["images/card1.png","images/cards2.png"];
 var audioElement = document.createElement("audio");
 audioElement.setAttribute("src", "assets/sounds/loose.wav");
